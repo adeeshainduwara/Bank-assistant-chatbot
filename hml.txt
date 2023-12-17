@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Assistant</title>
+    <link rel="stylesheet" href="gpt01.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Bank Assistant</h1>
+    </header>
+
+    <section class="main-section">
+        <h2>Banking Services in Ariviyal Nagar, Killinochchi</h2>
+        <p>Explore our range of banking services and let our bank assistant guide you through your financial journey.</p>
+
+        <!-- Replace the image paths with your actual image URLs -->
+        <div class="image-container">
+            <img src="C:\Users\DELL\Desktop\AI PROJ\WEB\Convo.jpg" alt="Convo.jpg">
+            <img src="C:\Users\DELL\Desktop\AI PROJ\WEB\money.jpg" alt="money.jpg">
+           
+
+<iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/20e06a12-1904-4b04-94c4-37f6225bab95"></iframe>
+        </div>
+
+        <p>Contact us at: <strong>Ariviyal Nagar, Killinochchi</strong></p>
+    </section>
+
+</body>
+</html>
